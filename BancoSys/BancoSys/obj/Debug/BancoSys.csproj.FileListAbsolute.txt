@@ -1,0 +1,6 @@
+c:\users\lab3\documents\visual studio 2013\Projects\BancoSys\BancoSys\bin\Debug\BancoSys.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\BancoSys\BancoSys\bin\Debug\BancoSys.exe
+c:\users\lab3\documents\visual studio 2013\Projects\BancoSys\BancoSys\bin\Debug\BancoSys.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\BancoSys\BancoSys\obj\Debug\BancoSys.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\BancoSys\BancoSys\obj\Debug\BancoSys.exe
+c:\users\lab3\documents\visual studio 2013\Projects\BancoSys\BancoSys\obj\Debug\BancoSys.pdb
